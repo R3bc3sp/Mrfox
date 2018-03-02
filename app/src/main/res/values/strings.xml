@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MrFox</string>
+    <string name="email">Escribe tu email</string>
+    <string name="password">Escribe tu password</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="textoIpsus">Android es un sistema operativo basado en el núcleo Linux. Fue diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tabletas y también para relojes inteligentes, televisores y automóviles.>Android es un sistema operativo basado en el núcleo Linux. Fue diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tabletas y también para relojes inteligentes, televisores y automóviles. Inicialmente fue desarrollado por Android Inc., empresa que Google respaldó económicamente y más tarde, en 2005, compró.</string>
+</resources>
